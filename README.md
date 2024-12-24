@@ -8,7 +8,7 @@ Um aplicativo Vue.js simples para pesquisar informações de endereço por códi
 
 ## Introdução
 
-Este projeto foi desenvolvido usando o framework Vue.Js e tem como objetivo permitir que usúario procure por infomações sobre um determinado CEP.
+Este projeto foi desenvolvido usando o framework Vue.Js e tem como objetivo permitir que o usuário procure por infomações sobre um determinado CEP.
 
 ## Instalação
 
